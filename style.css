@@ -1,0 +1,21 @@
+.s
+{
+    background-image: url(https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top:200px ;
+    height: 70vh;
+    width: 100%;
+
+}
+.h
+{
+    font-size: 88px;
+}
+.r,.v
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
